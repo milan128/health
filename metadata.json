@@ -1,0 +1,7 @@
+{
+  "name": "ActiveBreak - Healthy Desk Reminder",
+  "description": "A proactive wellness application that reminds desk-bound professionals to get up every 3 hours for a quick workout routine consisting of squats, push-ups, and sit-ups, featuring an AI coach for motivation and form tips.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
